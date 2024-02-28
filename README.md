@@ -1,4 +1,5 @@
 **Forest Fire Prediction in Algeria** 
+/
 **- This repository contains the Exploratory Data Analysis (EDA) and implementation of Machine Learning algorithms on the Algerian forest fires dataset. The goal of this project is to predict future forest fires in Algeria by analyzing historical data and training machine learning models.**
 
 
@@ -38,4 +39,5 @@ The results of the machine learning models are compared and evaluated, and the b
 This project can be further improved by using more advanced machine learning algorithms, and by incorporating additional data sources such as satellite imagery.**
 
 **Study by PW Skills.**
-**Durgesh Kharwar**
+
+/**Durgesh Kharwar**
